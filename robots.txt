@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://https://sloperideronline.github.io/sitemap.xml
+Sitemap: https://sloperideronline.github.io/sitemap.xml
